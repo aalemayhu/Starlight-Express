@@ -1,2 +1,3 @@
-# Starlight-Express
-A blazing fast Subscribestar client
+# Starlight Express
+
+A blazing fast [SubscribeStar](https://www.subscribestar.com) client
